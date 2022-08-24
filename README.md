@@ -2,12 +2,11 @@
 ### About Me
 My name is **Jun Jo**, a software engineer from New York. 
 
-I currently work in [Goldman Sachs](https://www.goldmansachs.com/)' Marcus division. 
+I currently work for [Goldman Sachs](https://www.goldmansachs.com/). 
 I'm part of the money movement team where our team is responsible for 
 building money movement related features such as ACH and wires. 
 
-Prior to Goldman Sachs, I worked at [Northwestern Mutual](https://www.northwesternmutual.com/), where I got my first dips on 
-financial related platform. I was part of the API engineering team where we were responsible for API development, backend-service
+Prior to Goldman Sachs, I worked for [Northwestern Mutual](https://www.northwesternmutual.com/), where I helped to build their financial platform. I was part of the API engineering team where I was responsible for API development, backend-service
 library management, data persistence, and microservice orchestration.
 <div align="center">
 <a href="https://junjo.dev/">
