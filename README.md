@@ -2,11 +2,15 @@
 ### About Me
 My name is **Jun Jo**, a software engineer from New York. 
 
-I currently work for [Goldman Sachs](https://www.goldmansachs.com/). 
-I'm part of the money movement team where our team is responsible for 
-building money transfer related features such as ACH and wires. 
-Here's the project I've been working on: https://apple.co/3IAYXCT
+**Current Role:**  
+At Goldman Sachs, I am part of the front office trading team, where I contribute to developing and maintaining the trading platform. 
+The platform handles a wide range of financial instruments including equities, listed options, fixed income products, and foreign exchange (FX). 
+My role involves ensuring that the platform operates efficiently and reliably, supporting the high-paced demands of the financial markets.
 
+**Previous Experience:**  
+Before joining the current team, I was part of the money movement team at GS responsible for 
+building money transfer related features such as ACH and wires for Apple’s savings
+accounts. https://apple.co/3IAYXCT
 
 Prior to Goldman Sachs, I worked for [Northwestern Mutual](https://www.northwesternmutual.com/), where I helped to build their financial platform. I was part of the API engineering team where I was responsible for API development, backend-service
 library management, data persistence, and microservice orchestration.
